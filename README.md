@@ -1,5 +1,8 @@
 # Clickhouse Cluster
 
+从 https://github.com/tetafro/clickhouse-cluster 修改而成， 更新版本，添加default密码
+
+
 Clickhouse-22.1.3.7 cluster with 2 shards and 2 replicas built with docker-compose.
 
 ## Run
